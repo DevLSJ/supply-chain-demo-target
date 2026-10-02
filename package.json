@@ -1,0 +1,11 @@
+{
+  "name": "@devlsj/demo-string-utils",
+  "version": "1.0.0",
+  "description": "Small string utility package used as a supply-chain monitoring demo target",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "license": "MIT",
+  "repository": "github:DevLSJ/supply-chain-demo-target"
+}
